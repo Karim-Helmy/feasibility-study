@@ -7,10 +7,10 @@
     <meta name="description" content="Modern admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities with bitcoin dashboard.">
     <meta name="keywords" content="admin template, modern admin template, dashboard template, flat admin template, responsive admin template, web app, crypto dashboard, bitcoin dashboard">
     <meta name="author" content="PIXINVENT">
-    <title>Cpanel BE_STEAM
+    <title>Cpanel Feasibility Sudies
     </title>
     <link rel="apple-touch-icon" href="{{ asset('backend/app-assets/images/ico/apple-icon-120.png')}}">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('backend/app-assets/images/ico/favicon.ico')}}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('backend/app-assets/images/backgrounds/117862.jpg')}}">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Quicksand:300,400,500,700"
           rel="stylesheet">
     <link href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome.min.css"
@@ -60,7 +60,7 @@
 </head>
 <body class="vertical-layout vertical-menu-modern 1-column   menu-expanded blank-page blank-page"
       data-open="click" data-menu="vertical-menu-modern" data-col="1-column"
-      style="background:url({{ asset('backend/app-assets/images/backgrounds/login.jpg')}}) no-repeat center center fixed; height:100%;  -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+      style="background:url({{ asset('backend/app-assets/images/backgrounds/117862.jpg')}}) no-repeat center center fixed; height:100%;  -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
 <!-- ////////////////////////////////////////////////////////////////////////////-->
 <div class="app-content content">
     <div class="content-wrapper">
@@ -89,11 +89,7 @@
             <div class="card-title text-center" style="margin:auto;">
                 <div class="p-1">
                     <br />
-                    <img src="{{ asset('backend/app-assets/images/logo/logo-dark.png')}}"
-                         style="height:50%; width:50%;" class="center-block img-responsive" alt="branding logo">
-                    <br /><br />
-                    <img src="{{ asset('backend/app-assets/images/logo/wro.png')}}"
-                         style="height:50%; width:50%;" class="center-block img-responsive" alt="branding logo">
+
                 </div>
             </div>
         </div>

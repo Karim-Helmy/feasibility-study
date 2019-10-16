@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Admin;
+use App\User;
 
 
 class AdminTableSeeder extends Seeder
@@ -13,11 +13,12 @@ class AdminTableSeeder extends Seeder
      */
     public function run()
     {
-        $admin = new Admin();
-        $admin->username = 'Super Admin';
-        $admin->email = "admin@be-steam.com";
-        $admin->phone = "01020104730";
-        $admin->password =  bcrypt("admin123");
+        $admin = new User();
+        $admin->name = 'Student';
+        $admin->username = 'Student';
+        $admin->email = "user@user.com";
+        $admin->phone = "010244104730";
+        $admin->password =  bcrypt("123456");
         $admin->save();
     }
 }

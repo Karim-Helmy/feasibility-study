@@ -7,7 +7,7 @@ Route::get('setlocale/{locale}', function ($locale) {
     return redirect()->back();
 });
 Auth::routes();
-Route::group(['prefix' => 'super','namespace'=>'super'], function () {
+Route::group(['prefix' => 'user','namespace'=>'super'], function () {
 
 
     // Must Login

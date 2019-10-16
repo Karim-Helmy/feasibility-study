@@ -33,7 +33,7 @@ Route::post('sessionstore', 'FrontAuthController@sessionStore');
 Route::get('checklogin', array('as' => 'checklogin', function () {
     if (isset(Auth::user()->id) && Auth::user()->status == 1) {
         if (Auth::user()->type == '1') {
-            return redirect('/super/home');
+            return redirect('/user/home');
 
         }elseif (Auth::user()->type == '2') {
             return redirect('/trainer/home');

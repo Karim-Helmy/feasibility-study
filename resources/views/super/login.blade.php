@@ -89,10 +89,10 @@
             <div class="card-title text-center" style="margin:auto;">
                 <div class="p-1">
                     <br />
-                    <img src="{{ asset('backend/app-assets/images/logo/logo-dark.png')}}"
+                    <img src="{{ asset('backend/app-assets/images/logo/logo-dark.pngf')}}"
                          style="height:50%; width:50%;" class="center-block img-responsive" alt="branding logo">
                     <br /><br />
-                    <img src="{{ asset('backend/app-assets/images/logo/wro.png')}}"
+                    <img src="{{ asset('backend/app-assets/images/logo/wro.pngf')}}"
                          style="height:50%; width:50%;" class="center-block img-responsive" alt="branding logo">
                 </div>
             </div>

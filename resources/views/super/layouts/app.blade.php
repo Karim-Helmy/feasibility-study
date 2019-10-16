@@ -11,7 +11,7 @@
   <title>Cpanel
   </title>
   <link rel="apple-touch-icon" href="{{ asset('backend/app-assets/images/ico/apple-icon-120.png') }}">
-  <link rel="shortcut icon" type="image/x-icon" href="{{ asset('backend/app-assets/images/ico/favicon.ico') }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ asset('backend/app-assets/images/ico/favcicon.ico') }}">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Quicksand:300,400,500,700"
     rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
@@ -25,9 +25,10 @@
   <!-- END VENDOR CSS-->
   <!-- BEGIN MODERN CSS-->
   <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/app.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/custom-rtl.css') }}">
   <!-- END MODERN CSS-->
   <!-- BEGIN Page Level CSS-->
-  <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/core/menu/menu-types/vertical-menu-modern.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/core/menu/menu-types/vertical-compact-menu.css') }}">
   <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/core/colors/palette-gradient.css') }}">
 
 @else
@@ -95,10 +96,12 @@
   @include('super.includes.messages')
     <!-- Content Header (Page header) -->
     <div class="content-wrapper">
+      <div class="content-body">
       @yield('content')
       <!-- /.content -->
 
       <!-- /.content-wrapper -->
+      </div>
     </div>
   </div>
   @include('super.includes.footer')
@@ -131,6 +134,13 @@
 
   <!-- END PAGE VENDOR JS-->
   <script src="{{ asset('backend/app-assets/vendors/js/charts/chart.min.js')}}" type="text/javascript"></script>
+  <script src="{{ asset('backend/app-assets/vendors/js/charts/raphael-min.js')}}" type="text/javascript"></script>
+  <script src="{{ asset('backend/app-assets/vendors/js/charts/morris.min.js')}}" type="text/javascript"></script>
+  <script src="{{ asset('backend/app-assets/vendors/js/charts/jquery-jvectormap-2.0.3.min.js')}}" type="text/javascript"></script>
+  <script src="{{ asset('backend/app-assets/vendors/js/charts/jquery-jvectormap-world-mill.js')}}" type="text/javascript"></script>
+
+  <script src="{{ asset('backend/app-assets/vendors/js/charts/visitor-data.js')}}" type="text/javascript"></script>
+
 
   <!-- END PAGE VENDOR JS-->
   <script src="{{ asset('backend/app-assets/js/scripts/bootstrap-switch.min.js')}}" type="text/javascript"></script>
@@ -166,9 +176,8 @@
   <script src="{{ asset('backend/app-assets/js/scripts/tables/datatables-extensions/datatable-button/datatable-html5.js')}}"
     type="text/javascript"></script>
 
-    <script src="{{ asset('backend/app-assets/js/scripts/gallery/photo-swipe/photoswipe-script.js')}}"
-
-  type="text/javascript"></script>
+    <script src="{{ asset('backend/app-assets/js/scripts/gallery/photo-swipe/photoswipe-script.js')}}" type="text/javascript"></script>
+  <script src="{{ asset('backend/app-assets/js/scripts/dashboard-sales.js')}}" type="text/javascript"></script>
 
   <!-- END PAGE LEVEL JS-->
   @yield('scripts')

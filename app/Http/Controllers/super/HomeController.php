@@ -15,12 +15,9 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $subscriber = Subscriber::where('id',auth()->user()->subscriber_id)->first();
-        $photos = explode('|', $subscriber->photos);
-        return view('super.index', [
-            'index' => $subscriber,
-            'photos' => $photos
-        ]);
+
+
+        return view('super.index');
     }
 
 
