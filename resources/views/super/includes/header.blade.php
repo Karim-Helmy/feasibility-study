@@ -5,7 +5,7 @@
       <ul class="nav navbar-nav flex-row">
         <li class="nav-item mobile-menu d-md-none mr-auto"><a class="nav-link nav-menu-main menu-toggle hidden-xs" href="#"><i class="ft-menu font-large-1"></i></a></li>
         <li class="nav-item">
-          <a class="navbar-brand" href="{{ surl('/home') }}">
+          <a class="navbar-brand" href="{{ surl('/') }}">
 
             <h3 class="brand-text">تنفيذى</h3>
           </a>
@@ -24,6 +24,46 @@
 
         </ul>
         <ul class="nav navbar-nav float-right">
+
+
+
+
+
+
+          <li class="dropdown nav-item mega-dropdown"><a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">{{ trans('admin.my projects') }}</a>
+            <ul class="mega-dropdown-menu dropdown-menu row">
+
+              <li class="col-md-3">
+                <h6 class="dropdown-menu-header text-uppercase"><a href="{{ surl('/projects/create') }}" class="btn round btn-success mr-1 btn-glow "  > {{ trans('admin.intro') }}<i class="ft-bar-chart"></i></a></h6>
+                <ul class="drilldown-menu">
+                  <li class="menu-list">
+                    <ul>
+                      <li>
+
+                        @if($projects !== null)
+                          @foreach($projects as $project)
+                            <a class="dropdown-item" href="{{ surl('/projects/edit/'.$project->id) }}"> <i class="ft-file"></i> {{$project->name}}</a>
+                          @endforeach
+                        @endif
+                      </li>
+
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+
+            </ul>
+          </li>
+
+
+
+
+
+
+
+
+
+
           <li class="dropdown dropdown-user nav-item">
             <a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown">
                 <span class="mr-1">Hello,
@@ -33,7 +73,7 @@
                   <img src="{{ asset('backend/app-assets/images/portrait/small/avatar-s-19.png')}}" alt="avatar"><i></i></span>
             </a>
             <div class="dropdown-menu dropdown-menu-right">
-              <a class="dropdown-item" href="{{ sturl('/edit') }}"><i class="ft-check-square"></i> {{ trans('admin.edit') }}</a>
+              <a class="dropdown-item" href="{{ surl('/edit') }}"><i class="ft-check-square"></i> {{ trans('admin.edit') }}</a>
               <div class="dropdown-divider"></div><a class="dropdown-item" href="{{ url('/logout') }}"><i class="ft-power"></i> {{ trans('login.logout') }}</a>
             </div>
           </li>

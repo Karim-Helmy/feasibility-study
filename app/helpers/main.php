@@ -16,7 +16,7 @@
      */
     function surl($url)
     {
-        return url('/user' . $url);
+        return url('/dashboard' . $url);
     }
 
     /**

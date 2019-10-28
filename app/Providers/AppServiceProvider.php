@@ -1,13 +1,11 @@
 <?php
 
 namespace App\Providers;
-
+use App\Projects;
 use Illuminate\Support\ServiceProvider;
-
+use Illuminate\Http\Request;
+use Auth;
 use Illuminate\Support\Facades\View;
-use App\Contact;
-use App\Subscriber;
-
 class AppServiceProvider extends ServiceProvider
 {
     /**
@@ -25,14 +23,27 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
-    public function boot()
+    public function boot(Request $request)
     {
         if(is_null(session()->get('locale'))){
             session()->put('locale','ar');
         }
 
-        $contactts = Contact::where('views','like','0')->orderBy('id', 'desc')->get();
+        View::composer('*', function($view)
+        {
+            if (Auth::check()){
+                $projects = Projects::where('user_id',Auth::id() )->get();
+                View::share('projects',$projects);
+            }
+        });
+
+
+
+
+        $contactts = '1';
+
         View::share('contactt',$contactts);
+
         $waiting_count = '1';
         View::share('waiting_count',$waiting_count);
     }

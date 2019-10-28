@@ -20,7 +20,7 @@
   <link href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome.min.css" rel="stylesheet">
   @if (session()->get('locale') == "ar")
   <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/vendors.css') }}">
-  <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/vendors/css/extensions/sweetalert.css')}}">
+
 
   <!-- END VENDOR CSS-->
   <!-- BEGIN MODERN CSS-->
@@ -28,9 +28,12 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/custom-rtl.css') }}">
   <!-- END MODERN CSS-->
   <!-- BEGIN Page Level CSS-->
-  <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/core/menu/menu-types/vertical-compact-menu.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/core/menu/menu-types/vertical-menu-modern.css') }}">
   <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/core/colors/palette-gradient.css') }}">
-
+    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/jquery-jvectormap-2.0.3.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/morris.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/style-rtl.css') }}">
 @else
   <!-- BEGIN VENDOR CSS-->
   <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css/vendors.css') }}">
@@ -56,9 +59,12 @@
   <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/core/colors/palette-gradient.css') }}">
   <!-- END Page Level CSS-->
   <!-- BEGIN Custom CSS-->
-  <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/style-rtl.css')}}"> @else
+    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/pages/timeline.css') }}">
+
+    <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/style-rtl.css')}}"> @else
   <!-- END Page Level CSS-->
   <!-- BEGIN Custom CSS-->
+    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css/pages/timeline.css') }}">
   <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/style.css')}}"> @endif
 
   <style>
@@ -79,7 +85,7 @@
 
 </head>
 
-<body class="vertical-layout vertical-menu-modern 2-columns   menu-expanded fixed-navbar" data-open="click" data-menu="vertical-menu-modern"
+<body class="vertical-layout vertical-menu-modern 2-columns fixed-navbar pace-done menu-collapsed" data-open="click" data-menu="vertical-menu-modern"
   data-col="2-columns">
   @include('super.includes.header')
 
@@ -95,18 +101,21 @@
   <div class="app-content content">
   @include('super.includes.messages')
     <!-- Content Header (Page header) -->
-    <div class="content-wrapper">
-      <div class="content-body">
+
+      <div class="content-wrapper">
+        <div class="content-header row">
+          @include('super.includes.breadcrumb')
+        </div>
       @yield('content')
       <!-- /.content -->
 
       <!-- /.content-wrapper -->
       </div>
     </div>
-  </div>
+
   @include('super.includes.footer')
 
-
+  <script src="https://www.google.com/jsapi" type="text/javascript"></script>
   <script src="{{ asset('backend/app-assets/vendors/js/vendors.min.js')}}" type="text/javascript"></script>
   <!-- BEGIN VENDOR JS-->
   <!-- BEGIN PAGE VENDOR JS-->
@@ -118,6 +127,8 @@
   @else
   <script src="{{ asset('backend/app-assets/vendors/js/tables/datatable/datatables.min.js')}}" type="text/javascript"></script>
   @endif
+
+
   <script src="{{ asset('backend/app-assets/vendors/js/tables/datatable/dataTables.buttons.min.js')}}" type="text/javascript"></script>
   <script src="{{ asset('backend/app-assets/vendors/js/tables/datatable/buttons.bootstrap4.min.js')}}" type="text/javascript"></script>
   <script src="{{ asset('backend/app-assets/vendors/js/tables/jszip.min.js')}}" type="text/javascript"></script>
@@ -155,6 +166,8 @@
 
   <script src="{{ asset('backend/app-assets/js/scripts/jquery.repeater.min.js')}}" type="text/javascript"></script>
   <script src="{{ asset('backend/app-assets/js/scripts/customizer.js')}}" type="text/javascript"></script>
+  <script src="{{ asset('backend/app-assets/js/scripts/pie.js')}}" type="text/javascript"></script>
+  <script src="{{ asset('backend/app-assets/js/scripts/pie-exploded.js')}}" type="text/javascript"></script>
   <script src="{{ asset('backend/app-assets/js/scripts/form-repeater.js')}}" type="text/javascript"></script>
   <!-- BEGIN PAGE VENDOR JS-->
 

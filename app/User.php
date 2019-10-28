@@ -16,7 +16,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name', 'username', 'email', 'mobile', 'phone', 'address', 'nationality', 'birth_date', 'status', 'type', 'password','subscriber_id','photo','father_id'
+       'id', 'name', 'username', 'email', 'mobile', 'phone', 'address', 'nationality', 'birth_date', 'status', 'type', 'password','subscriber_id','photo','father_id'
     ];
 
     /**
@@ -40,8 +40,5 @@ class User extends Authenticatable
     /**
     * @return \Illuminate\Database\Eloquent\Relations\belongsTo
     */
-    public function subscriber()
-    {
-        return $this->belongsTo('App\Subscriber','subscriber_id');
-    }
+
 }

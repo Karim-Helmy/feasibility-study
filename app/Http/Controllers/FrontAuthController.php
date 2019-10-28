@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Illuminate\Support\Facades\Session;
 use Illuminate\Http\Request;
 use App\User;
 
@@ -26,6 +26,7 @@ class FrontAuthController extends Controller
      */
     public function logout()
     {
+        Session::forget('project_id');
         auth()->logout();
         return redirect('/login');
     }
