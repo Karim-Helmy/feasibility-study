@@ -1,162 +1,139 @@
 <!DOCTYPE html>
-<html class="loading" lang="en" data-textdirection="ltr">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <meta name="description" content="Modern admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities with bitcoin dashboard.">
-    <meta name="keywords" content="admin template, modern admin template, dashboard template, flat admin template, responsive admin template, web app, crypto dashboard, bitcoin dashboard">
-    <meta name="author" content="PIXINVENT">
-    <title>Cpanel Feasibility Sudies
-    </title>
-    <link rel="apple-touch-icon" href="{{ asset('backend/app-assets/images/ico/apple-icon-120.png')}}">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('backend/app-assets/images/backgrounds/117862.jpg')}}">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Quicksand:300,400,500,700"
-          rel="stylesheet">
-    <link href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome.min.css"
-          rel="stylesheet">
-    <!-- BEGIN VENDOR CSS-->
-    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css/vendors.css')}}">
-    <link rel="stylesheet" type="text/css" href=".{{ asset('backend/app-assets/vendors/css/forms/icheck/icheck.css')}}">
-    <link rel="stylesheet" type="text/css" href=".{{ asset('backend/app-assets/vendors/css/forms/icheck/custom.css')}}">
-    <!-- END VENDOR CSS-->
-    <!-- BEGIN MODERN CSS-->
-    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css/app.css')}}">
-    <!-- END MODERN CSS-->
-    <!-- BEGIN Page Level CSS-->
-    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css/core/menu/menu-types/vertical-menu-modern.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css/core/colors/palette-gradient.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css/pages/login-register.css')}}">
-    <!-- END Page Level CSS-->
-    <!-- BEGIN Custom CSS-->
-    <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/style.css')}}">
+<html   @if (session()->get('locale') == "ar")  lang="ar" @else  lang="en" @endif >
 
-    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/vendors/css/forms/icheck/square/_all.css')}}">
-    @if (session()->get('locale') == "ar")
-        <style>
-            body,.has-icon-left .form-control.input-lg{
-                text-align: right;
-                direction: rtl;
-            }
-            .text-md-left {
-                text-align: right !important;
-                direction: rtl;
-                float: right;
-            }
-            .col-md-6 {
-                max-width: 99%;
-                width: 99%;
-                flex: 0 0 100%;
-            }
-        </style>
-    @endif
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="apple-touch-icon" href="{{ asset('backend/app-assets/images/ico/apple-icon-120.png')}}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('backend/app-assets/images/ico/favicon.ico')}}">
+
+    <!--Start styles-->
+    <link rel="stylesheet" href="{{ asset('frontend/css/core.css')}}">
+    <link rel="stylesheet" href="{{ asset('frontend/scss/style.css')}}">
+
+    <title>Be-Steam Login</title>
     <style>
-        .font-small-3 span{
-            font-size: 20px;
-            font-weight: bold;
+        @media (min-width: 768px) {
+            .login_form:before {
+                content: '';
+                position: absolute;
+                right: -190px;
+                margin-top: 60px;
+                background: url({{ asset('frontend/images/robo.png') }}) 0% 0% no-repeat;
+                width: 250px;
+                height: 100%;
+                z-index: 99999;
+                background-size: contain;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .login_form:after {
+                content: '';
+                position: absolute;
+                left: -200px;
+                top: 120px;
+                background: url({{ asset('frontend/images/ro1.gif') }}) 0% 0% no-repeat;
+                width: 250px;
+                height: 100%;
+                background-size: contain;
+            }
         }
     </style>
-    <!-- END Custom CSS-->
 </head>
-<body class="vertical-layout vertical-menu-modern 1-column   menu-expanded blank-page blank-page"
-      data-open="click" data-menu="vertical-menu-modern" data-col="1-column"
-      style="background:url({{ asset('backend/app-assets/images/backgrounds/117862.jpg')}}) no-repeat center center fixed; height:100%;  -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
-<!-- ////////////////////////////////////////////////////////////////////////////-->
-<div class="app-content content">
-    <div class="content-wrapper">
-        <div class="content-header row">
-            <div class="container">
-                <br />
-                @if ($errors->count())
-                    <div class="alert alert-danger" style="width:100%;">
-                        <ul>
-                            @foreach ($errors->all() as $e)
-                                <li>{{ $e }}</li>
-                            @endforeach
-                        </ul>
-                    </div>
-                @endif
 
-                @if (session()->has('success'))
-                    <div class="alert alert-success" style="width:100%;">{{ session()->get('success') }}</div>
-                @endif
-
-                @if (session()->has('error'))
-                    <div class="alert alert-danger" style="width:100%;">{{ session()->get('error') }}</div>
-                @endif
-            </div>
-            <br /><br />
-            <div class="card-title text-center" style="margin:auto;">
-                <div class="p-1">
-                    <br />
-
-                </div>
-            </div>
-        </div>
+<body style="background:linear-gradient(
+        rgba(0, 0, 0, 0.7),
+        rgba(0, 0, 0, 0.7)
+        ),url({{ asset('frontend/images/learning.jpg')}}) no-repeat center center fixed; height:100%;  -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
 
 
-        <div class="content-body">
-            <section class="flexbox-container">
-                <div class="col-12 d-flex align-items-center justify-content-center">
-                    <div class="col-md-4 col-10 box-shadow-2 p-0">
-                        <div class="card border-grey border-lighten-3 m-0">
-                            <div class="card-header border-0">
-                                <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2">
-                                    <span>{{ trans('login.login') }}</span>
-                                </h6>
-                            </div>
-                            <div class="card-content">
-                                <div class="card-body">
-                                    <form class="form-horizontal form-simple" method="post" action="{{url('/sessionstore')}}" novalidate>
-                                        {{ csrf_field() }}
-                                        <fieldset class="form-group position-relative has-icon-left mb-0">
-                                            <input type="text" value="{{ old('username') }}" name="username" class="form-control form-control-lg input-lg" id="user-name" placeholder="{{ trans('admin.username') }}"
-                                                   required>
-                                            <div class="form-control-position">
-                                                <i class="ft-user"></i>
-                                            </div>
-                                        </fieldset>
-                                        <fieldset class="form-group position-relative has-icon-left">
-                                            <input type="password" value="{{ old('password') }}" name="password" class="form-control form-control-lg input-lg" id="user-password"
-                                                   placeholder="{{ trans('login.password') }}" required>
-                                            <div class="form-control-position">
-                                                <i class="la la-key"></i>
-                                            </div>
-                                        </fieldset>
-                                        <div class="form-group row">
-                                            <div class="col-md-6 col-12 text-center text-md-left">
-                                                <fieldset>
-                                                    <input type="checkbox" id="remember-me" name="remember" {{ old('remember') ? 'checked' : '' }} class="chk-remember">
-                                                    <label for="remember-me"> {{ trans('login.remember') }}</label>
-                                                </fieldset>
-                                            </div>
-                                        </div>
-                                        <button type="submit" class="btn btn-info btn-lg btn-block" name="login"><i class="ft-unlock"></i> {{ trans('login.login') }}</button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
+<!--Preloader-->
+
+<div class='loader-container'>
+    <div class='loader'>
+        <div class='loader--dot'></div>
+        <div class='loader--dot'></div>
+        <div class='loader--dot'></div>
+        <div class='loader--dot'></div>
+        <div class='loader--dot'></div>
+        <div class='loader--dot'></div>
+        <div class='loader--text'></div>
     </div>
 </div>
-<!-- ////////////////////////////////////////////////////////////////////////////-->
-<!-- BEGIN VENDOR JS-->
-<script src="{{ asset('backend/app-assets/vendors/js/vendors.min.js')}}" type="text/javascript"></script>
-<!-- BEGIN VENDOR JS-->
-<!-- BEGIN PAGE VENDOR JS-->
-<script src="{{ asset('backend/app-assets/vendors/js/forms/icheck/icheck.min.js')}}" type="text/javascript"></script>
-<script src="{{ asset('backend/app-assets/vendors/js/forms/validation/jqBootstrapValidation.js')}}"
-        type="text/javascript"></script>
-<!-- END PAGE VENDOR JS-->
-<!-- BEGIN MODERN JS-->
-<script src="{{ asset('backend/app-assets/js/core/app-menu.js')}}" type="text/javascript"></script>
-<script src="{{ asset('backend/app-assets/js/core/app.js')}}" type="text/javascript"></script>
-<!-- END MODERN JS-->
-<!-- BEGIN PAGE LEVEL JS-->
-<script src="{{ asset('backend/app-assets/js/scripts/forms/form-login-register.js')}}" type="text/javascript"></script>
-<!-- END PAGE LEVEL JS-->
+
+
+
+<main>
+    <div class="page_wrapper" style="background:none;">
+        <div class="container">
+            <br />
+            @if ($errors->count())
+                <div class="alert alert-danger" style="width:100%;">
+                    <ul>
+                        @foreach ($errors->all() as $e)
+                            <li>{{ $e }}</li>
+                        @endforeach
+                    </ul>
+                </div>
+            @endif
+
+            @if (session()->has('success'))
+                <div class="alert alert-success" style="width:100%;">{{ session()->get('success') }}</div>
+            @endif
+
+            @if (session()->has('error'))
+                <div class="alert alert-danger" style="width:100%;">{{ session()->get('error') }}</div>
+            @endif
+            <br /><br /><br /><br />
+            <div class="col-md-8 mx-auto">
+                <div class="login_form wow fadeInUp">
+                    <div class="row">
+
+                        <div class="col-md-5 p-0">
+                            <div class="login_img"></div>
+                        </div>
+
+                        <div class="col-md-7 p-0">
+                            <form method="post" action="{{url('/sessionstore')}}" class="clearfix">
+                                <h3>{{ trans('login.login') }}</h3>
+                                {{ csrf_field() }}
+                                <label for="">{{ trans('admin.username') }} :</label>
+                                <input type="text" value="{{ old('username') }}" name="username" class="form-control">
+
+                                <label for="">{{ trans('login.password') }} :</label>
+                                <input type="password" value="{{ old('password') }}" name="password" class="form-control">
+                                <p class="m-t-2">
+                    <span class="checkbox_wrapper">
+                      <input type="checkbox" name="remember" {{ old('remember') ? 'checked' : '' }} id='checkBox'>
+                      <label class="checkLabel" for="checkBox"></label>
+                      <label for="checkBox">{{ trans('login.remember') }}</label>
+                    </span>
+
+                                </p>
+
+                                <p class="m-t-2">
+                                    <input type="submit" value="{{ trans('login.login') }}">
+                                </p>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+
+<!--Start scripts-->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+<script src="{{ asset('frontend/js/core.js')}}"></script>
+<script src="{{ asset('frontend/js/plugin.js')}}"></script>
 </body>
+
 </html>

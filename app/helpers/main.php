@@ -19,6 +19,7 @@
         return url('/dashboard' . $url);
     }
 
+
     /**
      * [aurl To Go To Trainer Url]
      * @param  [string] $url [link]
@@ -252,4 +253,19 @@ function namespacedXMLToArray($xml)
     // One function to both clean the XML string and return an array
     return json_decode(json_encode(simplexml_load_file(removeNamespaceFromXML($xml))), true);
 
+}
+
+if (!function_exists('responses'))
+{
+    function responses($status=null, $messages=null,$data=null,$api_token=null)
+    {
+        $user_token = App\User::where('api_token', $api_token)->first('api_token');
+        $user_id = App\User::where('api_token', $api_token)->first();
+
+        if ($user_token = $api_token&&$user_token != null&&$user_id=auth()->guard('api')->user()->id) {
+            return ['status' => $status, 'messages' => $messages, 'data' => $data];
+        }else{
+            return ['status' => false, 'messages' => 'error! you must login again', 'data' => null];
+        }
+    }
 }

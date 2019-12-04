@@ -181,6 +181,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         ConsoleTVs\Charts\ChartsServiceProvider::class,
+        Meneses\LaravelMpdf\LaravelMpdfServiceProvider::class
 
     ],
 
@@ -239,6 +240,7 @@ return [
         'XmlParser' => Orchestra\Parser\Xml\Facade::class,
         'Excel' => Maatwebsite\Excel\Facades\Excel::class,
         'Charts' => ConsoleTVs\Charts\Facades\Charts::class,
+        'PDF' => Meneses\LaravelMpdf\Facades\LaravelMpdf::class,
 
 
     ],

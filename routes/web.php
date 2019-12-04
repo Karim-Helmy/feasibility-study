@@ -18,11 +18,19 @@ Route::get('setlocale/{locale}', function ($locale) {
     return redirect()->back();
 });
 
+
+
+Route::group(['namespace'=>'super'], function () {
+//Home Page
+    Route::get('/', 'HomeController@homepage');
+
+});
+
 // Login
 Auth::routes();
 Route::get('/login', function () {
     if (isset(Auth::user()->id)) {
-        return redirect('/');
+        return redirect('/dashboard');
     } else {
         return view('auth.login');
     }
@@ -82,20 +90,16 @@ Route::group(['namespace'=>'super'], function () {
     Route::group(['prefix' => 'dashboard','middleware' => ['Supervisor', 'auth']], function(){
         //Home
         Route::get('/', 'HomeController@index');
-        //Subscriber (Edit Home page to all)
-        Route::get('/school/edit', 'SubscribersController@edit');
-        Route::patch('/school/update/{id}', 'SubscribersController@update')->name('super.school.update');
 
-        //Edit And Show Profile
-        Route::get('/show', 'ProfileController@show');
-        Route::get('/edit', 'ProfileController@edit');
-        Route::patch('/update', 'ProfileController@update')->name('super.user.update');
+
+
 
         //Team
         Route::get('team', 'TeamController@index');
         Route::post('team/store', 'TeamController@store');
         Route::post('team/update/{id}', 'TeamController@update')->name('super.team.update');
         Route::post('team/destroy/{id}', 'TeamController@destroy')->name('super.team.destroy');
+        Route::get('autocomplete', 'TeamController@autocomplete')->name('autocomplete');
 
         //elements
         Route::get('elements', 'ElementsController@index');
@@ -103,10 +107,38 @@ Route::group(['namespace'=>'super'], function () {
         Route::post('elements/update/{id}', 'ElementsController@update')->name('super.elements.update');
         Route::post('elements/destroy/{id}', 'ElementsController@destroy')->name('super.elements.destroy');
 
+
+        //fixed
+        Route::get('fixed', 'FixedController@index');
+        Route::post('fixed/store', 'FixedController@store');
+        Route::post('fixed/update/{id}', 'FixedController@update')->name('super.fixed.update');
+        Route::post('fixed/destroy/{id}', 'FixedController@destroy')->name('super.fixed.destroy');
+
+
+        //administrative
+        Route::get('administrative', 'AdministrativeController@index');
+        Route::post('administrative/store', 'AdministrativeController@store');
+        Route::post('administrative/update/{id}', 'AdministrativeController@update')->name('super.administrative.update');
+        Route::post('administrative/destroy/{id}', 'AdministrativeController@destroy')->name('super.administrative.destroy');
+
+        //finance
+        Route::get('finance', 'FinanceController@index');
+        Route::post('finance/store', 'FinanceController@store');
+        Route::post('finance/update/{id}', 'FinanceController@update')->name('super.finance.update');
+        Route::post('finance/updateadvantage', 'FinanceController@updateadvantage')->name('super.advantage.update');
+
+
+        Route::post('finance/destroy/{id}', 'FinanceController@destroy')->name('super.finance.destroy');
         //plan
         Route::get('plan', 'PlanController@index');
         Route::post('plan/update/{id}', 'PlanController@update')->name('super.plan.update');
-        Route::post('plan/destroy/{id}', 'PlanController@destroy')->name('super.plan.destroy');
+
+        //grow
+        Route::get('grow', 'GrowController@index');
+        Route::post('grow/update/{id}', 'GrowController@update')->name('super.grow.update');
+
+        //firstyear
+        Route::get('firstyear', 'GrowController@firstyear');
 
         //outlay
         Route::get('outlay', 'OutlayController@index');
@@ -125,15 +157,7 @@ Route::group(['namespace'=>'super'], function () {
         Route::post('target/store', 'TargetController@store');
         Route::post('target/update/{id}', 'TargetController@update')->name('super.target.update');
         Route::post('target/destroy/{id}', 'TargetController@destroy')->name('super.target.destroy');
-        //Users
-        Route::get('users', 'UsersController@index');
-        Route::get('users/excel', 'UsersController@excel');
-        Route::post('users/import', 'UsersController@import');
-        Route::get('users/create', 'UsersController@create');
-        Route::post('users/store', 'UsersController@store');
-        Route::get('users/edit/{id}', 'UsersController@edit');
-        Route::patch('users/update/{id}', 'UsersController@update')->name('super.users.update');
-        Route::delete('users/destroy/{id}', 'UsersController@destroy')->name('super.users.destroy');
+
 
 
         //Projects
@@ -143,6 +167,8 @@ Route::group(['namespace'=>'super'], function () {
         Route::get('projects/edit/{id}', 'ProjectsController@edit');
         Route::post('projects/update/{id}', 'ProjectsController@update')->name('super.projects.update');
         Route::delete('projects/destroy/{id}', 'ProjectsController@destroy')->name('super.projects.destroy');
+        Route::get('/generate-pdf', 'PdfController@pdfview')->name('generate-pdf');
+
     });
 });
 
