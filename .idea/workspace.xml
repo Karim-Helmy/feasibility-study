@@ -4,433 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/routes/web.php" line="127" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50be1463-1307-4854-87a8-a36f22d76669" name="Default" comment="last Update">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/107880_19-10-03-02-39-11_4647437317af335928d7b42364e00ef6becd0767.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/309394_19-10-03-02-33-58_a781028b9bd7bf81c685ba0434e1276acedf9854.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/352703_19-10-03-02-30-35_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/387038_19-10-03-02-30-23_965bc3b0319bc4ba10710db3159661cf2df60fbb.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/960397_19-10-03-02-33-20_9c2e6fc8bd7758b4d6313431f235eff9e53a2af4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/105029_19-09-23-09-02-27_3c7ed0e861d1962f1ef9aacb19c13807b9d785e3.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/158511_19-09-23-08-59-00_07223049bcea66ae72630f0c999f6b65ee3a99e5.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/204566_19-09-23-08-52-56_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/313550_19-09-23-08-59-47_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/33203_19-09-23-09-36-33_07223049bcea66ae72630f0c999f6b65ee3a99e5.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/36736_19-09-23-09-37-04_e808c87595e5e0cbc74a609e5a74a8fe8548a0b1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/498520_19-09-23-08-53-39_a433d814dc63952f2932d48db517af90cfed7386.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/50072_19-09-23-09-36-55_f7126d4053d5f3f7c9b75a8b0a66c7e29d40bf60.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/512479_19-09-23-08-53-14_bb561170debc793f56ce042d6c1e4123cc1beb03.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/595467_19-09-23-09-36-05_a781028b9bd7bf81c685ba0434e1276acedf9854.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/673702_19-09-23-08-58-45_8e132710d5381f343fe5ffdd6d88c4e147c883a8.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/934353_19-09-23-08-48-03_07223049bcea66ae72630f0c999f6b65ee3a99e5.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/958848_19-09-23-09-36-16_6c8d8feee58d07b20658d455433b3bc43ba681db.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/97268_19-09-23-09-35-48_90dcb3e91686ac176dee48fe7fd776365751c895.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Course.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Distracting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Play.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/course.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/distracting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/play.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/questions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/CalculatingHandicap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/CalculatingScore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/Example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/Overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/calchandi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/calcscore.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/overview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/questions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/HowToHaveFun.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/MakeFriends.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/friends.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/fun.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/questions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/OtherScoring.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Par.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Playing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/RulesOfGolf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Scoring.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/otherscoreing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/par.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/playing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/questions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/rules.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/scoring.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/XMLSchema.dtd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlcp_v1p3.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlnav_v1p3.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlseq_v1p3.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/anyElement.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/dataTypes.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/elementNames.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/elementTypes.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/rootElement.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/vocabTypes.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/vocabValues.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/datatypes.dtd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/extend/strict.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/ims_xml.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imscp_v1p1.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsmanifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0auxresource.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0control.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0delivery.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0limit.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0objective.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0random.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0rollup.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0seqrule.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0util.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/lom.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/assessmenttemplate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/cclicense.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/contentfunctions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/launchpage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/scormfunctions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/unique/strict.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/vocab/strict.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/xml.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Course.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Distracting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Play.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/course.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/distracting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/play.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/questions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/CalculatingHandicap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/CalculatingScore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/Example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/Overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/calchandi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/calcscore.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/overview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/questions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/HowToHaveFun.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/MakeFriends.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/friends.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/fun.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/questions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/OtherScoring.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Par.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Playing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/RulesOfGolf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Scoring.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/otherscoreing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/par.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/playing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/questions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/rules.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/scoring.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/XMLSchema.dtd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlcp_v1p3.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlnav_v1p3.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlseq_v1p3.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/anyElement.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/dataTypes.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/elementNames.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/elementTypes.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/rootElement.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/vocabTypes.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/vocabValues.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/datatypes.dtd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/extend/strict.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/ims_xml.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imscp_v1p1.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsmanifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0auxresource.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0control.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0delivery.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0limit.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0objective.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0random.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0rollup.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0seqrule.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0util.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/lom.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/assessmenttemplate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/cclicense.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/contentfunctions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/launchpage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/scormfunctions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/unique/strict.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/vocab/strict.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/xml.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/adlcp_rootv1p2.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/ims_xml.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/imscp_rootv1p1p2.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/imsmanifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/imsmd_rootv1p2p1.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/index_lms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/index_lms_html5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/AICCComm.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/AICCFunctions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/API.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/APIConstants.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/Configuration.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/LMSAPI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/NONEFunctions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/SCORM2004Functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/SCORMFunctions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/UtilityFunctions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/blank.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/browsersniff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/goodbye.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/lms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/meta.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/61YwypEEp5t_80_DX1344_DY1344_CX128_CY128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/63qzbpBg6YJ_80_DX1344_DY1344_CX128_CY128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/64m5GOF7dYX_80_B-6_C1_DX1440_DY1440_CX720_CY405.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/6HoGZeEsSku_80_DX416_DY416_CX208_CY36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/6KXNHSnloOc_80_DX1344_DY1344_CX672_CY296.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/6gHyhx1eXQv_80_DX1344_DY1344_CX128_CY128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/6juIOnXNwfP_80_DX364_DY364_CX182_CY40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/Shape6cHgz9vSj3W.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/Slide6iG9kNVNYpG.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/app_store.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/controls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/fonts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/icon_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/linen_background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/masks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/mobile_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/player.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/player_compiled.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/635uaePXhfS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6PPy02oQYYy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6XGhHg8vn0q.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6XrT5bKZEkW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6YQdrolJZtN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6gLg25T0ftQ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6oKFxrE1W3k.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/spinner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/wait.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/61YwypEEp5t_80_DX1344_DY1344.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/63qzbpBg6YJ_80_DX1344_DY1344.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/64m5GOF7dYX_80_B-6_C1_DX1440_DY1440.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/6HoGZeEsSku_80_DX416_DY416.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/6KXNHSnloOc_80_DX1344_DY1344.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/6gHyhx1eXQv_80_DX1344_DY1344.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/6juIOnXNwfP_80_DX364_DY364.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/Shape6cHgz9vSj3W.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/Slide6iG9kNVNYpG.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/blank.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/data.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/fonts.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/frame.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/frame.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/frame.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/635uaePXhfS.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6PPy02oQYYy.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6XGhHg8vn0q.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6XrT5bKZEkW.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6YQdrolJZtN.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6gLg25T0ftQ.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6oKFxrE1W3k.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/story.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/thumbnail.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_html5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_unsupported.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/adapt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/06dd1e0bc55d6f25d99b38a12cd30fd9caa19f49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/1802b84bf57c18647a9bd0fb40b32cde3cc7da66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/31530dd4806af551d7a3e3935ad501ec93ec30c6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/831f0802ba68ff13de40a722723b1b83af97d7a7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/88a2f62ddbd681aafcd4666a6326b50470687b11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/e4020c2b9fa1418fdb9dd81a4d36682b20c7d527.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/efaed7dc272b2edd8a3c0dc20efe9d16eb47775d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/f02aeb0f24312dcec087a82d6b3e34d74cff5ed4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/lp-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/navigation-logo-blank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/selected-blank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/transparency-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/transparency-light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_0_0.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_0_0.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_0_0.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_1_0.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_1_0.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_1_0.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/fontawesome-salsa.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/fontawesome-salsa.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/icomoon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/icomoon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/selection.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/vanilla.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/vanilla.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/js/adapt.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/js/scriptLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adlcp_rootv1p2.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/assets/e40a9220b62538ed990d7c0780ab42f3fbb991a5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/assets/flip_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/assets/flip_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/222d71f21522daae3c1de2e062f0b0a8fb335506.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/27dea99fd5c8652853f7471685744a7aec8f1120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/4601a11e2e4fd50c8007fa467e2332c498c18727.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/5799c22e9799d099674e2ab59d6e44ed4033708b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/5d3cdc3e4d191a5cca2c28ab02d707b55da8e843.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/75cbeb2397d4e8e72b3bca69c3d312c6110c041a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/879491533a8b913b8649be073b8812819201ca4d.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/8821fdf9cdaa7fa2bd268096b8ea82961714f3ff.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/89ee97b3829513054542997e2a617c691bc9c56d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/95aa8cc61316396fa075b4872bcd4d00760edfcc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/9710b5bea1585766c93270af396938541dc35941.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/ab801b4bf3951aa2e12248095fbdf5c82030a021.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/ad27db6a054900391a06fedbd009bf9f51e59ee1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/ae5130c71f9f77af3f00e4bd98d50fc364217a2d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/bdb420763c9762795d986d5fd7c3089becdee5ca.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/bf3680b10fe17bd8bdd9cb1554255a58f2e53723.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/c0aff97766fee734783a3c5dfd54e1ed655c9ca2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/cb006409707d7644bb1e241356f34eb574691381.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/d5df4ec7009c4f9c768b3c902bf0855c6aa6e111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/e2c151fffb9d2ab2215b138cf845c8b96591d340.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/e40a9220b62538ed990d7c0780ab42f3fbb991a5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/e53818abedafab1a836219fa5bd8df0edb86667f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/e88d9d3a4db39b77107722541c945948418bf7b7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/f55267d14cd333a15770c733bba01949dfb7d26a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/f865b032dc78ec242f02cc5e9ac294c7d3d9a178.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/fab50988be70f971b545f2e7aaf4be672e1fe094.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/articles.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/blocks.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/components.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/contentObjects.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/course.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/ims_xml.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/imscp_rootv1p1p2.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/imsmanifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/imsmd_rootv1p2p1.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/index_lms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/backbone.controller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/backbone.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/bowser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/consoles.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/enum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/es5-shim.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/expect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/handlebars.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/imageReady.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/inview.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.a11y.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.keycombo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.mobile.custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.v2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/json2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/mocha.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/mocha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/require.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/scrollTo.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/underscore.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/velocity.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/log_output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/offline_API_wrapper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/scorm_test_harness.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/templates.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/settings/299377_19-09-03-12-27-29_81c27284f77a447375ba39fb2f0005eeaccf28d8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/288618_19-09-30-01-47-59_e74cde04f997fc3e90d9b968cf34cd796b7de5fe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/319064_19-09-29-02-58-29_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/330862_19-09-29-02-40-06_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/348493_19-09-29-02-47-08_0bd06ad867e5b7100071b728066cb05146d3c385.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/461676_19-09-29-02-51-18_fcbaace33e1e66d80fb4892684f3471044cea33c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/791049_19-09-30-11-38-33_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/937709_19-09-29-02-52-33_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/949348_19-09-29-02-53-49_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/969639_19-09-29-02-45-30_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/10/225186_19-10-03-10-49-42_3305afab32d6603eea6bea2b422d44ad1367358e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/2/profile/2019/09/291129_19-09-29-03-01-00_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/attachments/2019/10/305294_19-10-03-02-44-10_9c2e6fc8bd7758b4d6313431f235eff9e53a2af4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/attachments/2019/10/548925_19-10-03-02-40-58_0c0da3c53b59ebb74ca199b92529172de7f29612.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/attachments/2019/10/824401_19-10-03-02-42-47_9c2e6fc8bd7758b4d6313431f235eff9e53a2af4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/attachments/2019/10/999629_19-10-03-02-40-36_6c8d8feee58d07b20658d455433b3bc43ba681db.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/images/2019/10/778084_19-10-03-01-14-14_36fd22d92298fc0ee0ff76b00d963b1dd127e3c8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/logos/2019/09/792976_19-09-24-11-19-52_25a2f5e1fff41560b7546849a2a788ff25123b68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/127200_19-09-25-09-34-00_25a2f5e1fff41560b7546849a2a788ff25123b68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/240323_19-09-25-10-29-24_a08fde293e9518e64c635b94fb38e6914bf7c001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/528545_19-09-29-10-39-02_c65bea4c882c6dc6c0a9d09a5d7bf4ead8570052.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/59336_19-09-26-02-03-35_a002f94ec7f971ec4a95b1c5bc9494c2b7cf8795.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/694032_19-09-29-03-10-52_5a01aff76cc0380c6070dcdf2ec2587254c4e162.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/746720_19-09-26-01-46-18_a002f94ec7f971ec4a95b1c5bc9494c2b7cf8795.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/863649_19-09-25-09-29-38_7f5a405adef84d2b6ecbaef62407830dcb7d3964.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/903703_19-09-30-12-51-04_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/965425_19-09-30-01-48-27_d7969f702c99817a19a08dc901b7afd44faf48e0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/10/31612_19-10-03-07-13-09_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/10/616160_19-10-02-08-31-02_e0e402751f01b4ecd79ee15142485334e7f7e4e3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/153292_19-10-08-01-59-02_6c8d8feee58d07b20658d455433b3bc43ba681db.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/434638_19-10-08-01-41-55_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/471277_19-10-08-01-49-05_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/55922_19-10-08-01-57-02_d84f9ac1c2ee64103a0fda64290955702560599a.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/74921_19-10-08-01-58-27_0c0da3c53b59ebb74ca199b92529172de7f29612.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/50885_19-09-24-01-01-15_05fc4f7443f15ea99196b7e39c91f522cbbd822c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/644686_19-09-29-08-02-33_ccbc8c3fd525962f3b56f2ff93e770884690aa62.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/646618_19-09-29-08-02-45_6ffd862cda8c5d0fb6a42a2915ae1dc22fe2fb3d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/652869_19-09-24-01-01-15_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/705606_19-09-24-01-01-15_6415c89cea4e1349246d672cbf05a22777f34f99.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/11985_19-09-19-12-53-56_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/122869_19-09-23-09-29-12_7d369fe0695c3dffad931e08f3eb515a80acb932.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/15709_19-09-23-09-29-26_e34dbfdf29fa676f0000031d95fcccd3eec38cef.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/179075_19-09-18-02-26-46_f78216663a5ab7fb492ab1b9b5946b137187d3da.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/202341_19-09-19-09-34-22_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/229741_19-09-19-09-31-15_fc7cf9d5127bbc3403a41b62794d3556d56402dd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/246478_19-09-18-02-26-23_06a4c9467bf185284601e898df09b9c081902310.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/249263_19-09-19-02-08-05_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/279192_19-09-18-02-24-13_50bcac50b21c2e9a6484ad9ca188b9e123eb34c3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/321138_19-09-18-12-58-49_81c27284f77a447375ba39fb2f0005eeaccf28d8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/357704_19-09-23-09-28-35_c65bea4c882c6dc6c0a9d09a5d7bf4ead8570052.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/371877_19-09-23-09-28-25_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/415375_19-09-19-12-53-39_9b6306ac547b67f3532fe213e2c124bfb020a5be.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/450952_19-09-18-01-08-51_167cafc6d95b88aca98d48c4c6334e8fa42b53b0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/494147_19-09-19-02-07-32_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/557875_19-09-19-09-27-49_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/609516_19-09-19-09-31-39_e0e402751f01b4ecd79ee15142485334e7f7e4e3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/726923_19-09-19-09-34-09_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/750990_19-09-18-01-07-54_81c27284f77a447375ba39fb2f0005eeaccf28d8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/761656_19-09-18-02-24-48_e34dbfdf29fa676f0000031d95fcccd3eec38cef.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/764795_19-09-23-09-32-39_6ffd862cda8c5d0fb6a42a2915ae1dc22fe2fb3d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/834767_19-09-18-02-25-01_7d369fe0695c3dffad931e08f3eb515a80acb932.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/85189_19-09-19-02-11-17_05fc4f7443f15ea99196b7e39c91f522cbbd822c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/874525_19-09-19-02-07-24_c65bea4c882c6dc6c0a9d09a5d7bf4ead8570052.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/893390_19-09-23-09-28-54_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/922957_19-09-19-02-07-42_7d369fe0695c3dffad931e08f3eb515a80acb932.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/953411_19-09-18-02-25-26_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/logos/2019/09/19614_19-09-19-12-24-20_2673879585c9a441ef45b6ea113a8997c4665642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/logos/2019/09/535168_19-09-23-09-26-35_943ca160044c620e0767bb0727e355b7de8e80b3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/logos/2019/09/574768_19-09-23-09-26-21_73e3779fef92ea96a6b6414b9ac175d72c58c6bd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/50465_19-09-29-02-36-07_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/526705_19-09-29-02-26-20_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/565594_19-09-29-02-33-38_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/755921_19-09-29-02-32-21_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/847183_19-09-29-02-37-48_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/869869_19-09-29-02-34-16_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+    <list default="true" id="50be1463-1307-4854-87a8-a36f22d76669" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Console/Kernel.php" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/main.php" afterPath="$PROJECT_DIR$/app/helpers/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/ar/admin.php" afterPath="$PROJECT_DIR$/resources/lang/ar/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/admin.php" afterPath="$PROJECT_DIR$/resources/lang/en/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/includes/footer.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/includes/footer.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/includes/header.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/includes/header.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/includes/sidebar.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/includes/sidebar.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/layouts/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/layouts/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/api.php" afterPath="$PROJECT_DIR$/routes/api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -508,8 +83,8 @@
       <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/super/grow/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="504">
+              <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -966,7 +541,7 @@
       <workItem from="1577087175174" duration="12935000" />
       <workItem from="1577102268230" duration="9532000" />
       <workItem from="1577271867571" duration="6340000" />
-      <workItem from="1577790511397" duration="177000" />
+      <workItem from="1577790511397" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1571237862017</created>
@@ -996,17 +571,23 @@
       <option name="project" value="LOCAL" />
       <updated>1575453240435</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="last Update">
+      <created>1577790746845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577790746845</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="361159000" />
+    <option name="totallyTimeSpent" value="361273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26852846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26852846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03189066" sideWeight="0.5171858" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1165,6 +746,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1209,6 +791,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
           <caret line="68" column="47" lean-forward="false" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1479,8 +1062,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/super/grow/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="504">
+          <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
           <folding />
         </state>
       </provider>
