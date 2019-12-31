@@ -17,11 +17,18 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 Route::group([ 'namespace' => 'Api'], function () {
-
-
-    //Login and Logout
-    Route::post('login','UserApi@login');
+//Login and Logout
+Route::post('login','UserApi@login');
+Route::post('check','UserApi@check');
     Route::post('logout','UserApi@logout');
+
+});
+
+Route::group([ 'namespace' => 'Api','middleware' => ['study:api']], function () {
+
+
+
+
 
     //Team
     Route::get('team', 'TeamController@index');

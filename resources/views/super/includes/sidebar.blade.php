@@ -5,6 +5,7 @@
 
     <div class="profile_details">
       <ul>
+        <h2  class="text-center">  @if(!empty(Session::get('project_name')))({{  session()->get('project_name')}}) @endif</h2>
         <li class=" nav-item"><a href="{{ surl('/') }}"><i class="la la-home"></i><span class="menu-title" data-i18n="nav.dash.main">{{ trans('admin.dashboard') }}</span></a>
 
         </li>

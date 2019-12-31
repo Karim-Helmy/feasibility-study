@@ -47,7 +47,7 @@
                             </div>
                             <div class="card-content" >
                                 <div class="card-body">
-                                    <p class="card-text" style="margin-top: -40px">{!!$project->goal!!}</p>
+                                    <p class="card-text" style="margin-top: -40px;">{!!$project->goal!!}</p>
                                 </div>
                             </div>
                         </div>

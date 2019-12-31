@@ -1,12 +1,12 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-6 mb-md-0 mb-5 text-center">
-        <img class="footer_logo text-center" src="{{ asset('frontend/home/assets/imgs/logo2.jpeg')}}" alt="footer-logo">
+      <div class="col-lg-4 col-md-4 col-sm-6 mb-md-0 mb-5 ">
+        <img class="footer_logo " src="{{ asset('frontend/home/assets/imgs/logo_footer.png')}}" style="width: 140px;margin-top: -40px !important;" alt="footer-logo">
       </div>
 
       <div class="col-md-4 col-sm-6 mb-md-0 mb-5">
-          <div class="footer_social text-center">
+          <div class="footer_social ">
             <a href="{{GetSetting('facebook')}}" target="_blank"><i class="fab fa-facebook-f"></i></a>
             <a href="{{GetSetting('twitter')}}" target="_blank"><i class="fab fa-twitter"></i></a>
             <a href="{{GetSetting('inst')}}" target="_blank"><i class="fab fa-instagram"></i></a>

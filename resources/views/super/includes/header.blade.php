@@ -1,5 +1,8 @@
 <!--Header-->
   <header  style="background: white">
+    <style>.btn-danger{color: white !important;}.modal-content  {direction: ltr!important;} .modal-title{visibility: hidden}
+    </style>
+
     <div class="our_topbar user_topbar" >
       <div class="container">
         <div class="row" >
@@ -23,12 +26,17 @@
           <div class="col">
             <div class="d-flex justify-content-end">
               <div class="profile">
-                <a href="#" style="color: black;font-size: 25px;margin-left: 15px"> <i class="icon-layers"></i>
-                </a>
+
+                @if (session()->get('locale') == "ar")
+                  <a href="#" style="color: black;font-size: 25px;margin-left: 15px"> <i class="icon-layers"></i>
+                  </a>                @else
+                  <a href="#" style="color: black;font-size: 25px;margin-right: 15px"> <i class="icon-layers"></i>
+                  </a>                @endif
+
 
                 <div class="profile_menu">
 
-                  <a href="#" >
+                  <a href="https://be-steam.com" >
                     <img src="{{ asset('frontend/images/logo black.png')}}" style="width: 130px" alt="logo">
                   </a>
 

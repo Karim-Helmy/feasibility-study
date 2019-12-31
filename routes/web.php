@@ -158,7 +158,8 @@ Route::group(['namespace'=>'super'], function () {
         Route::post('target/update/{id}', 'TargetController@update')->name('super.target.update');
         Route::post('target/destroy/{id}', 'TargetController@destroy')->name('super.target.destroy');
 
-
+        //tour
+        Route::get('tour', 'TourController@index');
 
         //Projects
         Route::get('projects/sessionstart/{id}', 'ProjectsController@sessionstart');

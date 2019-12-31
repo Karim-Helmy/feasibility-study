@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html class="loading"  @if (session()->get('locale') == "ar")  lang="ar" @else  lang="en" @endif >
+<html   @if (session()->get('locale') == "ar")  lang="ar" @else  lang="en" @endif >
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
     <meta name="description" content="Thaty Foundation for Educational Tools">
-    <meta name="keywords" content="Robot, e-training, STEM">
-    <meta name="author" content="Developed by Eng. Wael Serag | waelserag1@gmail.com">
-    <title>Cpanel
+    <meta name="keywords" content="Robot, e-training, STEAM,10feedy,Feasibilty-Study">
+    <meta name="author" content="Developed by Eng. Karim Helmy | karimhelmy185@gmail.com">
+    <title>10Feedy Dashboard
     </title>
     <link rel="apple-touch-icon" href="{{ asset('backend/app-assets/images/ico/apple-icon-120.png') }}">
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('backend/app-assets/images/ico/favicon.ico') }}">
@@ -57,7 +57,6 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/vendors/css/tables/extensions/buttons.dataTables.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/vendors/css/tables/datatable/buttons.bootstrap4.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/vendors/css/charts/jquery-jvectormap-2.0.3.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/vendors/css/charts/morris.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/fonts/simple-line-icons/style.css') }}"> @if (session()->get('locale') == "ar")
         <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css-rtl/core/colors/palette-gradient.css') }}">
         <!-- END Page Level CSS-->
@@ -69,27 +68,16 @@
         <!-- BEGIN Custom CSS-->
         <link rel="stylesheet" type="text/css" href="{{ asset('backend/app-assets/css/pages/timeline.css') }}">
         <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/style.css')}}"> @endif
-
 <!-- END Custom CSS-->
     @yield('styles')
     @stack('styles')
 
 </head>
 
-<body>
+<body  >
 
 <!--Site preloader-->
-<div class='loader-container'>
-    <div class='loader'>
-        <div class='loader--dot'></div>
-        <div class='loader--dot'></div>
-        <div class='loader--dot'></div>
-        <div class='loader--dot'></div>
-        <div class='loader--dot'></div>
-        <div class='loader--dot'></div>
-        <div class='loader--text'></div>
-    </div>
-</div>
+
 
 @include('super.includes.header')
 

@@ -66,6 +66,8 @@ class Kernel extends HttpKernel
         'Trainer' => \App\Http\Middleware\Trainer::class,
         'Supervisor' => \App\Http\Middleware\Supervisor::class,
         'Student' => \App\Http\Middleware\Student::class,
+        'study' => \App\Http\Middleware\ApiAuth::class,
+
     ];
 
     /**

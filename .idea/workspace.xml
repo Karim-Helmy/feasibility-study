@@ -4,106 +4,432 @@
     <bookmark url="file://$PROJECT_DIR$/routes/web.php" line="127" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50be1463-1307-4854-87a8-a36f22d76669" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/AdminController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/AttachmentsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/CategoriesController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/ContactsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/LogosController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/MessagesController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/OptionsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/PackagesController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/PhotosController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/ScormsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/SettingsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/SubscribersController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/VideosController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/student/HomeController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/student/ProfileController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/AttachmentsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/ClassroomsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/CoursesController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/DiscussionsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/HomeController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/LevelsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/MessagesController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/PhotosController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/ProfileController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/ProjectsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/ScormsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/UsersController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/trainer/VideosController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/admins/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/admins/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/admins/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/attachments/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/attachments/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/attachments/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/categories/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/categories/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/categories/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/contacts/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/contacts/show.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/includes/footer.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/includes/header.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/includes/messages.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/includes/sidebar.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/layouts/app.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/login.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/logos/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/logos/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/logos/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/messages/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/messages/show.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/options/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/options/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/options/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/packages/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/packages/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/packages/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/packages/show.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/photos/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/photos/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/photos/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/scorms/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/scorms/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/scorms/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/scorms/show.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/settings/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/settings/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/settings/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/subscribers/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/subscribers/details.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/subscribers/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/subscribers/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/subscribers/password.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/videos/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/videos/edit.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/videos/index.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/super/subscribers/edit.blade.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/feasibility-study.iml" afterPath="$PROJECT_DIR$/.idea/feasibility-study.iml" />
+    <list default="true" id="50be1463-1307-4854-87a8-a36f22d76669" name="Default" comment="last Update">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/107880_19-10-03-02-39-11_4647437317af335928d7b42364e00ef6becd0767.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/309394_19-10-03-02-33-58_a781028b9bd7bf81c685ba0434e1276acedf9854.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/352703_19-10-03-02-30-35_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/387038_19-10-03-02-30-23_965bc3b0319bc4ba10710db3159661cf2df60fbb.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/3/attachments/2019/10/960397_19-10-03-02-33-20_9c2e6fc8bd7758b4d6313431f235eff9e53a2af4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/105029_19-09-23-09-02-27_3c7ed0e861d1962f1ef9aacb19c13807b9d785e3.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/158511_19-09-23-08-59-00_07223049bcea66ae72630f0c999f6b65ee3a99e5.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/204566_19-09-23-08-52-56_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/313550_19-09-23-08-59-47_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/33203_19-09-23-09-36-33_07223049bcea66ae72630f0c999f6b65ee3a99e5.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/36736_19-09-23-09-37-04_e808c87595e5e0cbc74a609e5a74a8fe8548a0b1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/498520_19-09-23-08-53-39_a433d814dc63952f2932d48db517af90cfed7386.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/50072_19-09-23-09-36-55_f7126d4053d5f3f7c9b75a8b0a66c7e29d40bf60.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/512479_19-09-23-08-53-14_bb561170debc793f56ce042d6c1e4123cc1beb03.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/595467_19-09-23-09-36-05_a781028b9bd7bf81c685ba0434e1276acedf9854.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/673702_19-09-23-08-58-45_8e132710d5381f343fe5ffdd6d88c4e147c883a8.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/934353_19-09-23-08-48-03_07223049bcea66ae72630f0c999f6b65ee3a99e5.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/958848_19-09-23-09-36-16_6c8d8feee58d07b20658d455433b3bc43ba681db.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/attachments/2019/09/97268_19-09-23-09-35-48_90dcb3e91686ac176dee48fe7fd776365751c895.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Course.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Distracting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Play.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/course.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/distracting.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/play.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/questions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/CalculatingHandicap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/CalculatingScore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/Example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/Overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/calchandi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/calcscore.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/overview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/questions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/HowToHaveFun.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/MakeFriends.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/friends.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/fun.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/questions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/OtherScoring.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Par.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Playing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/RulesOfGolf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Scoring.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/otherscoreing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/par.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/playing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/questions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/rules.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/scoring.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/XMLSchema.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlcp_v1p3.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlnav_v1p3.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlseq_v1p3.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/anyElement.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/dataTypes.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/elementNames.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/elementTypes.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/rootElement.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/vocabTypes.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/vocabValues.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/datatypes.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/extend/strict.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/ims_xml.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imscp_v1p1.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsmanifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0auxresource.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0control.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0delivery.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0limit.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0objective.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0random.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0rollup.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0seqrule.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0util.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/lom.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/assessmenttemplate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/cclicense.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/contentfunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/launchpage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/scormfunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/unique/strict.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/vocab/strict.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/xml.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Course.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Distracting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/Play.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/course.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/distracting.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/play.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Etiquette/questions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/CalculatingHandicap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/CalculatingScore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/Example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/Overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/calchandi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/calcscore.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/overview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Handicapping/questions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/HowToHaveFun.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/MakeFriends.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/friends.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/fun.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/questions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/OtherScoring.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Par.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Playing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/RulesOfGolf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/Scoring.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/otherscoreing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/par.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/playing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/questions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/rules.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/Playing/scoring.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/XMLSchema.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlcp_v1p3.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlnav_v1p3.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/adlseq_v1p3.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/anyElement.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/dataTypes.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/elementNames.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/elementTypes.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/rootElement.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/vocabTypes.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/common/vocabValues.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/datatypes.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/extend/strict.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/ims_xml.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imscp_v1p1.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsmanifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0auxresource.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0control.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0delivery.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0limit.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0objective.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0random.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0rollup.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0seqrule.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/imsss_v1p0util.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/lom.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/assessmenttemplate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/cclicense.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/contentfunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/launchpage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/scormfunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/shared/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/unique/strict.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/vocab/strict.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/09/642931_19-09-23-09-27-27_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/xml.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/adlcp_rootv1p2.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/ims_xml.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/imscp_rootv1p1p2.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/imsmanifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/imsmd_rootv1p2p1.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/index_lms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/index_lms_html5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/AICCComm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/AICCFunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/API.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/APIConstants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/Configuration.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/LMSAPI.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/NONEFunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/SCORM2004Functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/SCORMFunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/UtilityFunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/browsersniff.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/goodbye.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/lms/lms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/61YwypEEp5t_80_DX1344_DY1344_CX128_CY128.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/63qzbpBg6YJ_80_DX1344_DY1344_CX128_CY128.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/64m5GOF7dYX_80_B-6_C1_DX1440_DY1440_CX720_CY405.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/6HoGZeEsSku_80_DX416_DY416_CX208_CY36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/6KXNHSnloOc_80_DX1344_DY1344_CX672_CY296.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/6gHyhx1eXQv_80_DX1344_DY1344_CX128_CY128.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/6juIOnXNwfP_80_DX364_DY364_CX182_CY40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/Shape6cHgz9vSj3W.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/Slide6iG9kNVNYpG.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/app_store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/fonts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/icon_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/linen_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/masks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/mobile_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/player.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/player_compiled.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/635uaePXhfS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6PPy02oQYYy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6XGhHg8vn0q.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6XrT5bKZEkW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6YQdrolJZtN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6gLg25T0ftQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/slides/6oKFxrE1W3k.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/spinner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/mobile/wait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/61YwypEEp5t_80_DX1344_DY1344.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/63qzbpBg6YJ_80_DX1344_DY1344.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/64m5GOF7dYX_80_B-6_C1_DX1440_DY1440.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/6HoGZeEsSku_80_DX416_DY416.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/6KXNHSnloOc_80_DX1344_DY1344.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/6gHyhx1eXQv_80_DX1344_DY1344.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/6juIOnXNwfP_80_DX364_DY364.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/Shape6cHgz9vSj3W.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/Slide6iG9kNVNYpG.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/data.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/fonts.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/frame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/frame.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/frame.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/635uaePXhfS.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6PPy02oQYYy.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6XGhHg8vn0q.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6XrT5bKZEkW.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6YQdrolJZtN.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6gLg25T0ftQ.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/slides/6oKFxrE1W3k.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/story.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_content/user.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_html5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/615172_19-10-01-11-59-20_940fdbfb9852434832a8b1929e03195d08cc190b/story_unsupported.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/adapt.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/06dd1e0bc55d6f25d99b38a12cd30fd9caa19f49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/1802b84bf57c18647a9bd0fb40b32cde3cc7da66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/31530dd4806af551d7a3e3935ad501ec93ec30c6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/831f0802ba68ff13de40a722723b1b83af97d7a7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/88a2f62ddbd681aafcd4666a6326b50470687b11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/e4020c2b9fa1418fdb9dd81a4d36682b20c7d527.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/efaed7dc272b2edd8a3c0dc20efe9d16eb47775d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/f02aeb0f24312dcec087a82d6b3e34d74cff5ed4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/lp-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/navigation-logo-blank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/selected-blank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/transparency-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/assets/transparency-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_0_0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_0_0.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_0_0.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_1_0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_1_0.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/2FFC5C_1_0.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/fontawesome-salsa.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/fontawesome-salsa.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/selection.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/vanilla.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/css/fonts/vanilla.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/js/adapt.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adapt/js/scriptLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/adlcp_rootv1p2.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/assets/e40a9220b62538ed990d7c0780ab42f3fbb991a5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/assets/flip_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/assets/flip_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/222d71f21522daae3c1de2e062f0b0a8fb335506.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/27dea99fd5c8652853f7471685744a7aec8f1120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/4601a11e2e4fd50c8007fa467e2332c498c18727.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/5799c22e9799d099674e2ab59d6e44ed4033708b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/5d3cdc3e4d191a5cca2c28ab02d707b55da8e843.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/75cbeb2397d4e8e72b3bca69c3d312c6110c041a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/879491533a8b913b8649be073b8812819201ca4d.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/8821fdf9cdaa7fa2bd268096b8ea82961714f3ff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/89ee97b3829513054542997e2a617c691bc9c56d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/95aa8cc61316396fa075b4872bcd4d00760edfcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/9710b5bea1585766c93270af396938541dc35941.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/ab801b4bf3951aa2e12248095fbdf5c82030a021.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/ad27db6a054900391a06fedbd009bf9f51e59ee1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/ae5130c71f9f77af3f00e4bd98d50fc364217a2d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/bdb420763c9762795d986d5fd7c3089becdee5ca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/bf3680b10fe17bd8bdd9cb1554255a58f2e53723.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/c0aff97766fee734783a3c5dfd54e1ed655c9ca2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/cb006409707d7644bb1e241356f34eb574691381.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/d5df4ec7009c4f9c768b3c902bf0855c6aa6e111.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/e2c151fffb9d2ab2215b138cf845c8b96591d340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/e40a9220b62538ed990d7c0780ab42f3fbb991a5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/e53818abedafab1a836219fa5bd8df0edb86667f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/e88d9d3a4db39b77107722541c945948418bf7b7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/f55267d14cd333a15770c733bba01949dfb7d26a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/f865b032dc78ec242f02cc5e9ac294c7d3d9a178.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/assets/fab50988be70f971b545f2e7aaf4be672e1fe094.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/articles.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/blocks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/components.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/contentObjects.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/course/en/course.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/ims_xml.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/imscp_rootv1p1p2.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/imsmanifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/imsmd_rootv1p2p1.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/index_lms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/backbone.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/backbone.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/bowser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/consoles.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/enum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/es5-shim.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/expect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/handlebars.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/imageReady.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/inview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.a11y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.keycombo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.mobile.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/jquery.v2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/json2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/mocha.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/mocha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/require.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/scrollTo.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/underscore.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/libraries/velocity.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/log_output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/offline_API_wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/scorm_test_harness.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/scorms/2019/10/898375_19-10-01-11-54-13_e419529fd5a6e2685439d8c19f61960a76041815/templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/settings/299377_19-09-03-12-27-29_81c27284f77a447375ba39fb2f0005eeaccf28d8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/288618_19-09-30-01-47-59_e74cde04f997fc3e90d9b968cf34cd796b7de5fe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/319064_19-09-29-02-58-29_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/330862_19-09-29-02-40-06_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/348493_19-09-29-02-47-08_0bd06ad867e5b7100071b728066cb05146d3c385.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/461676_19-09-29-02-51-18_fcbaace33e1e66d80fb4892684f3471044cea33c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/791049_19-09-30-11-38-33_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/937709_19-09-29-02-52-33_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/949348_19-09-29-02-53-49_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/09/969639_19-09-29-02-45-30_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/1/profile/2019/10/225186_19-10-03-10-49-42_3305afab32d6603eea6bea2b422d44ad1367358e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/2/profile/2019/09/291129_19-09-29-03-01-00_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/attachments/2019/10/305294_19-10-03-02-44-10_9c2e6fc8bd7758b4d6313431f235eff9e53a2af4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/attachments/2019/10/548925_19-10-03-02-40-58_0c0da3c53b59ebb74ca199b92529172de7f29612.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/attachments/2019/10/824401_19-10-03-02-42-47_9c2e6fc8bd7758b4d6313431f235eff9e53a2af4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/attachments/2019/10/999629_19-10-03-02-40-36_6c8d8feee58d07b20658d455433b3bc43ba681db.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/images/2019/10/778084_19-10-03-01-14-14_36fd22d92298fc0ee0ff76b00d963b1dd127e3c8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/logos/2019/09/792976_19-09-24-11-19-52_25a2f5e1fff41560b7546849a2a788ff25123b68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/127200_19-09-25-09-34-00_25a2f5e1fff41560b7546849a2a788ff25123b68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/240323_19-09-25-10-29-24_a08fde293e9518e64c635b94fb38e6914bf7c001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/528545_19-09-29-10-39-02_c65bea4c882c6dc6c0a9d09a5d7bf4ead8570052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/59336_19-09-26-02-03-35_a002f94ec7f971ec4a95b1c5bc9494c2b7cf8795.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/694032_19-09-29-03-10-52_5a01aff76cc0380c6070dcdf2ec2587254c4e162.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/746720_19-09-26-01-46-18_a002f94ec7f971ec4a95b1c5bc9494c2b7cf8795.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/863649_19-09-25-09-29-38_7f5a405adef84d2b6ecbaef62407830dcb7d3964.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/903703_19-09-30-12-51-04_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/09/965425_19-09-30-01-48-27_d7969f702c99817a19a08dc901b7afd44faf48e0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/10/31612_19-10-03-07-13-09_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/profile/2019/10/616160_19-10-02-08-31-02_e0e402751f01b4ecd79ee15142485334e7f7e4e3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/153292_19-10-08-01-59-02_6c8d8feee58d07b20658d455433b3bc43ba681db.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/434638_19-10-08-01-41-55_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/471277_19-10-08-01-49-05_af3dbd992f11c7d5a40737129bd53673de08d95d.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/55922_19-10-08-01-57-02_d84f9ac1c2ee64103a0fda64290955702560599a.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/projects/2019/10/74921_19-10-08-01-58-27_0c0da3c53b59ebb74ca199b92529172de7f29612.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/50885_19-09-24-01-01-15_05fc4f7443f15ea99196b7e39c91f522cbbd822c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/644686_19-09-29-08-02-33_ccbc8c3fd525962f3b56f2ff93e770884690aa62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/646618_19-09-29-08-02-45_6ffd862cda8c5d0fb6a42a2915ae1dc22fe2fb3d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/652869_19-09-24-01-01-15_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/3/sliders/2019/09/705606_19-09-24-01-01-15_6415c89cea4e1349246d672cbf05a22777f34f99.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/11985_19-09-19-12-53-56_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/122869_19-09-23-09-29-12_7d369fe0695c3dffad931e08f3eb515a80acb932.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/15709_19-09-23-09-29-26_e34dbfdf29fa676f0000031d95fcccd3eec38cef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/179075_19-09-18-02-26-46_f78216663a5ab7fb492ab1b9b5946b137187d3da.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/202341_19-09-19-09-34-22_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/229741_19-09-19-09-31-15_fc7cf9d5127bbc3403a41b62794d3556d56402dd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/246478_19-09-18-02-26-23_06a4c9467bf185284601e898df09b9c081902310.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/249263_19-09-19-02-08-05_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/279192_19-09-18-02-24-13_50bcac50b21c2e9a6484ad9ca188b9e123eb34c3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/321138_19-09-18-12-58-49_81c27284f77a447375ba39fb2f0005eeaccf28d8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/357704_19-09-23-09-28-35_c65bea4c882c6dc6c0a9d09a5d7bf4ead8570052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/371877_19-09-23-09-28-25_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/415375_19-09-19-12-53-39_9b6306ac547b67f3532fe213e2c124bfb020a5be.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/450952_19-09-18-01-08-51_167cafc6d95b88aca98d48c4c6334e8fa42b53b0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/494147_19-09-19-02-07-32_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/557875_19-09-19-09-27-49_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/609516_19-09-19-09-31-39_e0e402751f01b4ecd79ee15142485334e7f7e4e3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/726923_19-09-19-09-34-09_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/750990_19-09-18-01-07-54_81c27284f77a447375ba39fb2f0005eeaccf28d8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/761656_19-09-18-02-24-48_e34dbfdf29fa676f0000031d95fcccd3eec38cef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/764795_19-09-23-09-32-39_6ffd862cda8c5d0fb6a42a2915ae1dc22fe2fb3d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/834767_19-09-18-02-25-01_7d369fe0695c3dffad931e08f3eb515a80acb932.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/85189_19-09-19-02-11-17_05fc4f7443f15ea99196b7e39c91f522cbbd822c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/874525_19-09-19-02-07-24_c65bea4c882c6dc6c0a9d09a5d7bf4ead8570052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/893390_19-09-23-09-28-54_11d64db53965050de1e4e48bd4811666cd871cb8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/922957_19-09-19-02-07-42_7d369fe0695c3dffad931e08f3eb515a80acb932.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/images/2019/09/953411_19-09-18-02-25-26_201687dce05b8c5f1819511fac3940e7e8f9f48b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/logos/2019/09/19614_19-09-19-12-24-20_2673879585c9a441ef45b6ea113a8997c4665642.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/logos/2019/09/535168_19-09-23-09-26-35_943ca160044c620e0767bb0727e355b7de8e80b3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/logos/2019/09/574768_19-09-23-09-26-21_73e3779fef92ea96a6b6414b9ac175d72c58c6bd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/50465_19-09-29-02-36-07_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/526705_19-09-29-02-26-20_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/565594_19-09-29-02-33-38_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/755921_19-09-29-02-32-21_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/847183_19-09-29-02-37-48_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/uploads/profile/2019/09/869869_19-09-29-02-34-16_db5ceecce67f3900bd0db780b5098f0cb7b67611.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/super/HomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/super/HomeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Console/Kernel.php" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/main.php" afterPath="$PROJECT_DIR$/app/helpers/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/ar/admin.php" afterPath="$PROJECT_DIR$/resources/lang/ar/admin.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/admin.php" afterPath="$PROJECT_DIR$/resources/lang/en/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/includes/footer.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/includes/footer.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/includes/header.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/includes/header.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/includes/sidebar.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/includes/sidebar.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/index.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/super/layouts/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/super/layouts/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/admin.php" afterPath="$PROJECT_DIR$/routes/admin.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/api.php" afterPath="$PROJECT_DIR$/routes/api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/student.php" afterPath="$PROJECT_DIR$/routes/student.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,83 +444,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/dody/universal/universal/universal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="84" column="65" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/helpers/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserApi.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/UserApi.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            <state relative-caret-position="10395">
+              <caret line="585" column="45" lean-forward="false" selection-start-line="585" selection-start-column="45" selection-end-line="585" selection-end-column="45" />
               <folding>
-                <element signature="e#44#78#0#PHP" expanded="true" />
+                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://E:/dody/universal/universal/white-point/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-378">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="10080">
+              <caret line="480" column="72" lean-forward="false" selection-start-line="480" selection-start-column="71" selection-end-line="480" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsersController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../besteam/app/Http/Controllers/api/father/UsersController.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/dody/universal/universal/white-point/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="9618">
+              <caret line="548" column="14" lean-forward="false" selection-start-line="548" selection-start-column="14" selection-end-line="548" selection-end-column="14" />
+              <folding>
+                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectsController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/ProjectsController.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/dody/universal/universal/daewoo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="13314">
+              <caret line="634" column="20" lean-forward="false" selection-start-line="634" selection-start-column="20" selection-end-line="634" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#3;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/lang/ar/admin.php">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/super/grow/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="74" column="25" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/lang/en/admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="71" column="41" lean-forward="false" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+            <state relative-caret-position="357">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -204,15 +519,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.Grow</find>
-      <find>on_day</find>
-      <find>.Finance</find>
-      <find>Aministrative</find>
-      <find>.Admini</find>
-      <find>.Fixed</find>
-      <find>login</find>
-      <find>courses</find>
-      <find>grow</find>
       <find>finance</find>
       <find>administrative</find>
       <find>competitors</find>
@@ -227,18 +533,24 @@
       <find>team</find>
       <find>Administrative</find>
       <find>session()-&gt;get('project_id')</find>
-      <find>Fixed</find>
       <find>Finance</find>
       <find>{{ trans('admin.cur') }}{{ trans('admin.peryear') }}</find>
       <find>{{ trans('admin.peryear') }}</find>
       <find>.jpg</find>
       <find>email</find>
       <find>logout</find>
+      <find>sans</find>
+      <find>PNG</find>
+      <find>first</find>
+      <find>grow</find>
+      <find>Team</find>
+      <find>role</find>
+      <find>Fixed</find>
+      <find>Elements</find>
+      <find>يونيفرسال</find>
+      <find>وايت بوينت</find>
     </findStrings>
     <replaceStrings>
-      <replace>.elements</replace>
-      <replace>price</replace>
-      <replace>.outlay</replace>
       <replace>.outlay'</replace>
       <replace>.grow</replace>
       <replace>first</replace>
@@ -257,15 +569,18 @@
       <replace>name</replace>
       <replace>elements</replace>
       <replace>Competitors</replace>
-      <replace>Fixed</replace>
       <replace>project_id</replace>
-      <replace>Administrative</replace>
-      <replace>Finance</replace>
-      <replace>Outlay</replace>
       <replace>{{ trans('admin.cur') }} {{ trans('admin.peryear') }}</replace>
       <replace>({{ trans('admin.peryear') }})</replace>
       <replace>.jpg')}}</replace>
       <replace>username</replace>
+      <replace>png</replace>
+      <replace>Fixed</replace>
+      <replace>price</replace>
+      <replace>Finance</replace>
+      <replace>Administrative</replace>
+      <replace>Outlay</replace>
+      <replace>دايو</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -274,57 +589,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/config/dompdf.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/pdf/index.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/super/PdfController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/super/ProjectsController.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/projects/test.blade.php" />
-        <option value="$USER_HOME$/Desktop/feasibility-study/resources/views/layouts/app.blade - Copy.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/plan/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/grow/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/fixed/index.blade.php" />
-        <option value="$USER_HOME$/Desktop/feasibility-study/resources/views/super/layouts/app.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/team/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/layouts/app2.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/super/TeamController.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/layouts/app.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/grow/firstyear.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/target/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/competitors/index.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/super/TourController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/super/HomeController.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/routes/admin.php" />
         <option value="$PROJECT_DIR$/routes/student.php" />
         <option value="$PROJECT_DIR$/public/frontend/home/assets/js/main.js" />
         <option value="$PROJECT_DIR$/resources/views/super/home.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/includes/header.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/includes/footer.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/super/includes/sidebar.blade.php" />
         <option value="$PROJECT_DIR$/app/Exceptions/Handler.php" />
         <option value="$PROJECT_DIR$/resources/views/errors/404.blade.php" />
-        <option value="$PROJECT_DIR$/app/User.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/AdministrativeController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/CompetitorsController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/ElementsController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/FinanceController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/FixedController.php" />
         <option value="$PROJECT_DIR$/../besteam/app/Http/Kernel.php" />
-        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/TeamController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/OutlayController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/GrowController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/api/PlanController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/TargetController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/super/TourController.php" />
+        <option value="F:/documentation/components-ar.html" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/super/ElementsController.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/administrative/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/fixed/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/outlay/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/finance/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/plan/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/includes/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/public/frontend/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/super/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/includes/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/layouts/app2.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/elements/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/includes/footer.blade.php" />
         <option value="$PROJECT_DIR$/resources/lang/ar/admin.php" />
         <option value="$PROJECT_DIR$/resources/lang/en/admin.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/CompetitorsController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/GrowController.php" />
+        <option value="$PROJECT_DIR$/resources/views/super/docs/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Console/Kernel.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
         <option value="$PROJECT_DIR$/routes/api.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/ProjectsController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/api/UserApi.php" />
         <option value="$PROJECT_DIR$/app/helpers/main.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/ApiAuth.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/ProjectsController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/TeamController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/super/PdfController.php" />
+        <option value="$PROJECT_DIR$/app/Elements.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/FixedController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/FinanceController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/ElementsController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/AdministrativeController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/OutlayController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/UserApi.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/api/TargetController.php" />
+        <option value="E:/dody/universal/universal/universal/index.html" />
+        <option value="E:/dody/universal/universal/daewoo/index.html" />
       </list>
     </option>
   </component>
@@ -444,10 +759,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1911" />
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
-    <option name="height" value="1058" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -467,6 +782,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -478,12 +795,6 @@
               <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="feasibility-study" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feasibility-study" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Exceptions" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
@@ -517,8 +828,7 @@
               <item name="feasibility-study" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Auth" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Middleware" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
@@ -540,34 +850,7 @@
               <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="feasibility-study" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feasibility-study" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ar" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feasibility-study" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="en" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feasibility-study" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feasibility-study" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="errors" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
@@ -582,7 +865,7 @@
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="super" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="grow" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="feasibility-study" type="b2602c69:ProjectViewProjectNode" />
@@ -593,8 +876,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -672,7 +953,20 @@
       <workItem from="1575187807434" duration="16526000" />
       <workItem from="1575278373689" duration="11429000" />
       <workItem from="1575365343742" duration="10779000" />
-      <workItem from="1575444641862" duration="6627000" />
+      <workItem from="1575444641862" duration="7846000" />
+      <workItem from="1575808113569" duration="414000" />
+      <workItem from="1575965062691" duration="18448000" />
+      <workItem from="1576053826146" duration="31000" />
+      <workItem from="1576056729978" duration="9721000" />
+      <workItem from="1576138544229" duration="962000" />
+      <workItem from="1576151470478" duration="103000" />
+      <workItem from="1576153586553" duration="1291000" />
+      <workItem from="1576484243767" duration="144000" />
+      <workItem from="1576487110284" duration="18000" />
+      <workItem from="1577087175174" duration="12935000" />
+      <workItem from="1577102268230" duration="9532000" />
+      <workItem from="1577271867571" duration="6340000" />
+      <workItem from="1577790511397" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1571237862017</created>
@@ -695,25 +989,32 @@
       <option name="project" value="LOCAL" />
       <updated>1572257421464</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="last Update">
+      <created>1575453240435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575453240435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299824000" />
+    <option name="totallyTimeSpent" value="361159000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1938" height="1058" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22341569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26852846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03189066" sideWeight="0.5171858" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.013513514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.011261261" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0033783785" sideWeight="0.4828142" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03490991" sideWeight="0.4828142" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -731,18 +1032,18 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03189066" sideWeight="0.5171858" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.013513514" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.011261261" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.4828142" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27604726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03490991" sideWeight="0.4828142" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26100966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -753,7 +1054,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second" />
-    <option name="LAST_COMMIT_MESSAGE" value="second" />
+    <MESSAGE value="last Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="last Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -764,150 +1066,126 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/../besteam/app/Http/Controllers/student/ExamsController.php</url>
-          <line>212</line>
+          <line>231</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/New folder/website/index-ar.html" />
-    <entry file="file://F:/final/index-ar.html" />
-    <entry file="file://$PROJECT_DIR$/routes/super.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="307" column="43" lean-forward="false" selection-start-line="307" selection-start-column="42" selection-end-line="307" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/super/AdministrativeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/admin.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/CompetitorsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="25" column="75" lean-forward="false" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/super/docs/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5670">
+          <caret line="270" column="34" lean-forward="false" selection-start-line="270" selection-start-column="34" selection-end-line="270" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/ar/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/ar/website.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/student.php">
+    <entry file="file://$PROJECT_DIR$/resources/lang/en/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="383">
+          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/curl/curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53143">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/frontend/home/assets/js/main.js">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/sockets/sockets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-945">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/uploads/scorms/2019/09/578893_19-09-18-08-59-43_d02ff06343970c57a2f2c692af5c0b1822d7d8f1/HavingFun/HowToHaveFun.html" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/PlanController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../besteam/app/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="683">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/super/layouts/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/LocaleApi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/super/includes/breadcrumb.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/super/TourController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/super/includes/footer.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/super/includes/sidebar.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="45" column="163" lean-forward="false" selection-start-line="45" selection-start-column="163" selection-end-line="45" selection-end-column="163" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AAWNN/routes/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AAWNN/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="191" column="3" lean-forward="false" selection-start-line="191" selection-start-column="3" selection-end-line="191" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/super/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="46" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/ThemeForest_-_Modern_Admin_v1.0_-_Clean_Bootstrap_4_Dashboard_HTML_Template_-_21430660/modern-admin-1.0/html/rtl/vertical-modern-menu-template/error-400-with-navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="115" column="8" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/errors/404.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FrontAuthController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/super/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/UsersController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1008">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/super/includes/header.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -915,204 +1193,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="176" lean-forward="false" selection-start-line="18" selection-start-column="176" selection-end-line="18" selection-end-column="176" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../besteam/app/Http/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/FinanceController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1869">
-          <caret line="93" column="34" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/AdministrativeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding>
-            <element signature="e#45#73#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/TeamController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding>
-            <element signature="e#45#73#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/OutlayController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/PlanController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="62" column="88" lean-forward="false" selection-start-line="62" selection-start-column="88" selection-end-line="62" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/ProfileController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/CompetitorsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/TargetController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="94" column="79" lean-forward="false" selection-start-line="94" selection-start-column="79" selection-end-line="94" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/GrowController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1019">
-          <caret line="95" column="88" lean-forward="false" selection-start-line="95" selection-start-column="88" selection-end-line="95" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/ElementsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="63" column="33" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/FixedController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="63" column="96" lean-forward="false" selection-start-line="63" selection-start-column="96" selection-end-line="63" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../besteam/app/Http/Middleware/LocaleApi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2709">
-          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+        <state relative-caret-position="1680">
+          <caret line="89" column="80" lean-forward="false" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AAWNN/routes/api.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="27" selection-end-column="47" />
-          <folding />
+        <state relative-caret-position="1428">
+          <caret line="68" column="47" lean-forward="false" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AAWNN/resources/lang/ar/api.php">
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="60" column="31" lean-forward="true" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="966">
+          <caret line="46" column="12" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AAWNN/app/Http/Controllers/Api/UserApi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="78" column="21" lean-forward="false" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/lang/ar/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="74" column="25" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/lang/en/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="71" column="41" lean-forward="false" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/ProjectsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../besteam/app/Http/Controllers/api/father/UsersController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1120,36 +1227,260 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/auth.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/super/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FrontAuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/UserApi.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/super/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state relative-caret-position="-5859">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/super/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="237" column="0" lean-forward="true" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/super/PdfController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/super/ProjectsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2918">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/htdocs (2)/ecommerce/app/Http/Controllers/Api/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Elements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/ProjectsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#44#78#0#PHP" expanded="true" />
+            <element signature="e#44#61#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="84" column="65" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="3" />
+        <state relative-caret-position="673">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/super/grow/firstyear.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="158" column="138" lean-forward="false" selection-start-line="158" selection-start-column="138" selection-end-line="158" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/GrowController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/main.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/TeamController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/FixedController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#45#73#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/FinanceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/ElementsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="113" selection-end-column="1" />
+          <folding>
+            <element signature="e#45#73#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/AdministrativeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="e#45#73#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/TargetController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#45#73#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/OutlayController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="e#45#73#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/api/UserApi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <element signature="e#44#78#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/ApiAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding>
+            <element signature="e#39#51#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/dody/universal/universal/white-point/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10080">
+          <caret line="480" column="72" lean-forward="false" selection-start-line="480" selection-start-column="71" selection-end-line="480" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/dody/universal/universal/universal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10395">
+          <caret line="585" column="45" lean-forward="false" selection-start-line="585" selection-start-column="45" selection-end-line="585" selection-end-column="45" />
+          <folding>
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/dody/universal/universal/white-point/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9618">
+          <caret line="548" column="14" lean-forward="false" selection-start-line="548" selection-start-column="14" selection-end-line="548" selection-end-column="14" />
+          <folding>
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/dody/universal/universal/daewoo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13314">
+          <caret line="634" column="20" lean-forward="false" selection-start-line="634" selection-start-column="20" selection-end-line="634" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#3;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/super/grow/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
